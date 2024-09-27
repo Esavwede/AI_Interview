@@ -1,0 +1,45 @@
+Job Title: Junior Backend Developer
+Company: Nexwave Technologies
+Location: Remote/Hybrid
+
+Job Type: Full-time
+Posted on: September 26, 2024
+
+About Nexwave Technologies
+At Nexwave Technologies, we’re shaping the future of digital transformation for businesses around the globe. As a fast-growing tech company specializing in cloud solutions, data services, and AI-powered platforms, our goal is to build efficient, scalable solutions that solve real-world problems. Join us as we expand our innovative projects and deliver cutting-edge software solutions.
+
+Job Description
+We’re looking for a Junior Backend Developer to join our dynamic team. This is an exciting opportunity for someone eager to grow in a collaborative environment and help build reliable backend systems for scalable web and mobile applications. As a key member of the development team, you will work alongside experienced developers, gain hands-on experience with industry-leading technologies, and contribute to the success of our products.
+
+Key Responsibilities
+Assist in designing and building RESTful APIs and microservices for web and mobile applications
+Collaborate with the frontend team to ensure seamless integration of APIs and features
+Maintain and optimize existing backend infrastructure, ensuring high performance and availability
+Write clean, maintainable, and efficient code, following best practices and coding standards
+Troubleshoot, debug, and improve backend applications
+Participate in code reviews, provide constructive feedback, and learn from senior developers
+Assist in database design and management (PostgreSQL, MongoDB, etc.)
+Stay up-to-date with new backend development trends and technologies
+Requirements
+Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience)
+Familiarity with backend development using Node.js, Express, or similar frameworks
+Basic knowledge of REST APIs and microservices architecture
+Experience with databases such as MongoDB, PostgreSQL, or MySQL
+Understanding of version control systems (Git)
+Strong problem-solving skills and attention to detail
+Eagerness to learn and adapt to new technologies
+Preferred Skills
+Experience with TypeScript
+Familiarity with cloud platforms like AWS, Google Cloud, or Azure
+Exposure to CI/CD pipelines and testing tools
+Knowledge of containerization tools (e.g., Docker)
+Benefits
+Competitive salary and growth opportunities
+Flexible working hours and remote work options
+Access to mentorship and professional development
+Health insurance and wellness programs
+Opportunity to work on innovative, impactful projects
+How to Apply
+Ready to embark on your next career journey? Send your resume and a brief cover letter to careers@nexwave.com or apply through LinkedIn by October 15, 2024.
+
+Let’s build the future together at Nexwave Technologies!

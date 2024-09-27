@@ -1,0 +1,35 @@
+{
+  "name": "ai_interviewer",
+  "version": "0.0.1",
+  "description": "an ai that interviews a candidate for a job role",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./dist/app.js",
+    "dev":"nodemon ./src/app.ts",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esavwede/ai-interviewer.git"
+  },
+  "keywords": [
+    "ai",
+    "interview",
+    "jobs"
+  ],
+  "author": "ogagaoghene esavwede",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esavwede/ai-interviewer/issues"
+  },
+  "homepage": "https://github.com/esavwede/ai-interviewer#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.19.0",
+    "dotenv": "^16.4.5",
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2"
+  }
+}

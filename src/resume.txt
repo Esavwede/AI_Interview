@@ -1,0 +1,36 @@
+Ogagaoghene Esavwede
+Ogagaoghene.esavwede@gmail.com . +2348081848029
+https://github.com/Esavwede . LinkedIn Profile 
+Objective
+Dedicated and results-driven Backend Developer with a passion for crafting robust and efficient 
+backend solutions. Experienced in leading requirement analysis, implementing industry best 
+practices, and collaborating seamlessly with cross-functional teams. Seeking a challenging role to 
+leverage my technical skills and contribute to the development of innovative web applications. 
+Work Experience 
+Backend Developer 
+Career Edu, England 
+February 2023 - March 2023 
+l. Led requirement gathering and analysis with the frontend team, to determine features and scope 
+of the server
+li. Built server following industry standard practices for reliability, security and performance 
+lii. Collaborated with the frontend team with version control 
+liii. Tested server to ensure conformance with quality requirements and fixed found issues 
+Backend Developer Intern 
+Side Hustle Internship, Nigeria
+April - May 2022 
+l. Collaborated with development team to determine application features and scope
+li. Utilized fintech Apis to implement payment gateway features for the Api 
+lii. Created technical documentation for the payment Api
+liii. Ensured application of industry best practices to ensure Api quality 
+Education 
+Bachelor of Science (BSc), computer Science 
+University of Benin, Nigeria 
+January 2018 - December 2022 
+Skills 
+Techniques: Agile, requirements gathering, scaling, test driven development, version control
+Hard Skills: JavaScript, typescript, Node Js, express, mongo, Html, CSS, python, SQL
+Soft skills: critical thinking, problem solving, clear communication, teamwork
+Projects
+Cheerp: A chat application Api built for the Treblle Api hackathon, which was among the top ten 
+Apis. Supports user authentication, authorization and message sending and receiving. More 
+projects
